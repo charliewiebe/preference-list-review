@@ -2,7 +2,7 @@
 
 An R Shiny app for refining a scouting preference list through head-to-head player comparisons.
 
-**Open the app:** https://YOUR-APP-LINK
+**Open the app:** https://01a131fd-5e63-b8bf-47a0-8f87cbcd00cb.share.connect.posit.cloud
 
 **Portfolio:** https://charliewiebe.github.io
 
